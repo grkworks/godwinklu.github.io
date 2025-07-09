@@ -86,8 +86,8 @@
 
   <section id="contact" class="section">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:godwinklu1@gmail.com">godwinklu@example.com</a></p>
-    <p>Phone: +233 [Your Phone Number]</p>
+    <p>Email: <a href="mailto:godwinklu1@gmail.com">godwinklu1@gmail.com.com</a></p>
+    <p>Phone: +233552072567or+233206977659</p>
     <p>Social Media: 
       <a href="https://facebook.com">Facebook</a> | 
       <a href="https://linkedin.com">LinkedIn</a> | 
